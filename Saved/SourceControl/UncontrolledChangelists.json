@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/N_Fuego.umap",
+				"C:/Unreal Projects/Nivel_Inicial/Content/_GENERATED/User/CubeGridToolOutput_79F62579.uasset",
+				"C:/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/Mapa_Fuego.umap",
+				"C:/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/_GENERATED/User/CubeGridToolOutput_D33C20C7.uasset",
+				"C:/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset",
+				"C:/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/_GENERATED/User/CubeGridToolOutput_D74371ED.uasset",
+				"C:/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/Mapa_Tierra.umap",
+				"C:/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/_GENERATED/User/CubeGridToolOutput_AE00E6B5.uasset",
+				"C:/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/Mapa_incial.umap",
+				"C:/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Unreal Projects/Nivel_Inicial/Content/TestGame/Blueprints/BP_Player.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/Input/Actions/IA_Dash.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/Input/IMC_Default.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/TestGame/Blueprints/BP_Player.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/ThirdPerson/Blueprints/BP_LevelChange.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_incial.umap",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Fuego.umap",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/FreeAnimationLibrary/Animations/LedgeClimb/anim_LedgeClimb_ClimbUp.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/FreeAnimationLibrary/Animations/LedgeClimb/anim_LedgeClimb_ClimbUp_Montage.uasset",
+				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/N_inicial.umap",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/Mapa_incial.umap",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/_GENERATED/User/CubeGridToolOutput_2B316325.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/_GENERATED/User/CubeGridToolOutput_9B30EDF8.uasset",
+				"C:/Users/User/OneDrive/Documentos/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/_GENERATED/User/CubeGridToolOutput_67846ED9.uasset"
+			]
+		}
+	]
+}
