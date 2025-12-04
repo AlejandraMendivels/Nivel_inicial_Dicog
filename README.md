@@ -2,6 +2,7 @@
 
 ## Descripción
 **DICOG** es un videojuego de estilo Metroidvania desarrollado en Unreal Engine 5, enfocado en la exploración, el combate y la interacción con el entorno.
+El nivel inicial se encuentra en la carpeta llamada Thirdperson, dentro de la carpeta Niveles, es llamado Niver_inicial
 
 ---
 
